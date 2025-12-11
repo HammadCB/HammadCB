@@ -62,9 +62,9 @@ I am a highly motivated **Freelance Scripting & Automation Engineer** specializi
 
 This project demonstrates an end-to-end pipeline using one of the fundamental ML algorithms:
 
-* **Project:** [🎬 IMDB Movie Review Sentiment Analyzer](YOUR_PROJECT_REPO_LINK_HERE) **<-- PASTE YOUR PROJECT REPO LINK HERE**
-* **Accuracy:** 84.71%
-* **Deliverable:** Fully packaged with runnable `app.py` and saved model artifacts (`.pkl`).
+ **Project:** [🎬 IMDB Movie Review Sentiment Analyzer](YOUR_PROJECT_REPO_LINK_HERE) 
+ **Accuracy:** 84.71%
+ **Deliverable:** Fully packaged with runnable `app.py` and saved model artifacts (`.pkl`).
 
 </div>
 <br>
