@@ -16,7 +16,7 @@
 
 I am a highly motivated **Freelance Scripting & Automation Engineer** specializing in converting complex, manual workflows into efficient, reliable code.
 
-* ###**Service Offering:**  I deliver high-value solutions in **web scraping, data extraction, and process automation**, ensuring fast and reliable execution for client needs.
+* **###Service Offering:**  I deliver high-value solutions in **web scraping, data extraction, and process automation**, ensuring fast and reliable execution for client needs.
 * ###**Technical Foundation:**   I possess a robust background in **Python** (for scripting, data and ML applications) and **Java** (focusing on Object-Oriented Programming and robust problem-solving).
 * ###**Professional Goal:**   Dedicated to expanding my expertise into advanced **AI/Machine Learning** applications and building complex, scalable software solutions.
 * ###**Methodology:**   My focus is on practical skill development, emphasizing clean code architecture and immediate, measurable results for every project.
