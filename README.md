@@ -64,6 +64,7 @@ I am a highly motivated **Freelance Scripting & Automation Engineer** specializi
 This project demonstrates an end-to-end pipeline using one of the fundamental ML algorithms:
 
  **Project:** [🎬 IMDB Movie Review Sentiment Analyzer]((https://github.com/HammadCB/Text-sentiment-analyzer)) 
+ https://github.com/HammadCB/Text-sentiment-analyzer)
  
  **Accuracy:** 84.71%
  
